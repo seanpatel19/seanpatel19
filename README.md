@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @seanpatel19
-- 👀 I’m interested in web3 developement 
-- 🌱 I’m currently learning Rust
+- 👀 I work on financial solutions for Web3
+- 🌱 I am working on developing smart contracts
 - 💞️ I’m looking to collaborate on decentralized exchanges
 - 📫 How to reach me spl03@protonmail.com
 
